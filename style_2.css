@@ -1,0 +1,287 @@
+body{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/ea534f76-b87f-4720-9605-cb29cfd9fefe/web/CL-es-20260810-TRIFECTA-perspective_2cceb602-f1bd-43c0-a7c0-d380acb07fd2_large.jpg);
+    background-color: rgb(23, 23, 23, 0.8);
+    background-blend-mode: multiply;
+    color: white;
+    font-family: sans-serif;
+    height: 2950px;
+    max-height: 2000px;
+}
+header{
+    text-align: center;
+}
+header h1{
+    margin-left: 620px;
+    margin-top: 270px;
+    font-size: 60px;
+    width: 600px;
+}
+.img1 img{
+    width: 145px;
+}
+.img1{
+    margin-top: -580px;
+    margin-left: 330px;
+}
+header h2{
+    font-size: 20px;
+    margin-right: 55px;
+}
+header h4{
+    font-size: 14px;
+    margin-right: 50px;
+}
+.email{
+    margin-top: 600px;
+    display: flex;
+    margin-left: 700px;
+}
+.email input{
+    height: 50px;
+    width: 380px;
+    background-color: rgb(35, 35, 35, 0.8);
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+.cubo{
+    background-color: red;
+    padding: 5px;
+    width: 160px;
+    border-radius: 4px;
+    height: 44px;
+    display: flex;
+    margin-left: 10px;    
+}
+.cubo h4{
+    margin-top: 15px;
+    cursor: pointer;
+}
+.borde1{
+    height: 2205px;
+    width: 2000px;
+    background-color: rgb(0, 0, 0);
+    margin-left: -1280px;
+    margin-top: 200px;
+    border: 2px solid red;
+}
+.triple_t{
+    margin-top:  100px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+.t_1 img{
+    height: 350px;
+    width: 270px;
+    margin-left: 425px;
+    border-radius: 4px;
+}
+.t_2 img{
+    margin-top: -620px;
+    height: 350px;
+    width: 270px;
+    margin-left: 740px;
+    border-radius: 4px;
+}
+.t_2{
+    margin-top: -18px;
+}
+.t_3 img{
+    margin-top: -640px;
+    height: 355px;
+    width: 270px;
+    margin-left: 1050px;
+    border-radius: 4px;
+}
+.t_3{
+    margin-top: -11px;
+}
+.t_4 img{
+    margin-top: -640px;
+    height: 360px;
+    width: 270px;
+    margin-left: 1350px;
+    border-radius: 4px;
+}
+.t_4{
+    margin-top: -10px;
+}
+.triple_m{
+    margin-bottom:  500px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+.cuadro{
+    background-image: linear-gradient(purple, rgb(66, 49, 52), rgb(79, 0, 0));
+    height: 340px;
+    width: 320px;
+    border-radius: 10px;
+    margin-top: -460px;
+    margin-left: 400px;
+}
+.cuadro2{
+    background-image: linear-gradient(purple, rgb(66, 49, 52), rgb(79, 0, 0));
+    height: 340px;
+    width: 320px;
+    border-radius: 10px;
+    margin-top: -360px;
+    margin-left: 730px;
+}
+.cuadro3{
+    background-image: linear-gradient(purple, rgb(66, 49, 52), rgb(79, 0, 0));
+    height: 340px;
+    width: 320px;
+    border-radius: 10px;
+    margin-top: -360px;
+    margin-left: 1060px;
+}
+.cuadro4{
+    background-image: linear-gradient(purple, rgb(66, 49, 52), rgb(79, 0, 0));
+    height: 340px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: -360px;
+    margin-left: 1390px;
+}
+.preguntas{
+    margin-bottom:  1000px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+.p_1{
+    background-color: rgb(42, 42, 42);
+    width: 1285px;
+    height: 70px;
+    margin-top: -980px;
+    margin-left: 400px;
+    padding: 10px;
+    cursor: pointer;
+}
+.p_2{
+    background-color: rgb(42, 42, 42);
+    width: 1285px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 400px;
+    padding: 10px;
+    cursor: pointer;
+}
+.p_3{
+    background-color: rgb(42, 42, 42);
+    width: 1285px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 400px;
+    padding: 10px;
+    cursor: pointer;
+}
+.p_4{
+    background-color: rgb(42, 42, 42);
+    width: 1285px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 400px;
+    padding: 10px;
+    cursor: pointer;
+}
+.p_5{
+    background-color: rgb(42, 42, 42);
+    width: 1285px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 400px;
+    padding: 10px;
+    cursor: pointer;
+}
+.p_6{
+    background-color: rgb(42, 42, 42);
+    width: 1285px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 400px;
+    padding: 10px;
+    cursor: pointer;
+}
+.i_i{
+    margin-top: 130px;
+    margin-left: 675px;
+}
+.email3{
+    display: flex;
+    margin-left: 615px;
+}
+.email3 input{
+    height: 70px;
+    width: 600px;
+    background-color: rgb(35, 35, 35, 0.8);
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+.cubo_i{
+    background-color: red;
+    padding: 5px;
+    width: 210px;
+    border-radius: 4px;
+    height: 65px;
+    display: flex;
+    margin-left: 1230px;
+    margin-top: -76px;    
+}
+.cubo_i h4{
+    margin-top: 25px;
+    cursor: pointer;
+}
+.parte_f{
+    margin-left: 400px;
+    margin-top: 70px;
+    color: gray;
+}
+.parte_f a{
+    color: gray;
+}
+.columna_1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-left: 400px;
+    gap: 15px;
+}
+.columna_1 a{
+    color: gray;
+}
+.columna_2{
+    display: flex;
+    flex-direction: column;
+    margin-top: -120px;
+    margin-left: 700px;
+    gap: 15px;
+}
+.columna_2 a{
+    color: gray;
+}
+.columna_3{
+    display: flex;
+    flex-direction: column;
+    margin-top: -120px;
+    margin-left: 1000px;
+    gap: 15px;
+}
+.columna_3 a{
+    color: gray;
+}
+.columna_4{
+    display: flex;
+    flex-direction: column;
+    margin-top: -120px;
+    margin-left: 1300px;
+    gap: 15px;
+}
+.columna_4 a{
+    color: gray;
+}
+footer{
+    margin-top: -40px;
+    margin-left: 310px;
+    color: gray;
+}
+
+
